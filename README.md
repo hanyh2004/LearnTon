@@ -6,8 +6,8 @@
 
     --2023.10.1
 
-Gitbook 链接
+Gitbook 链接 [学习记录](https://ton.irole.network/)
 
-https://ton.irole.network/
+
 
 
